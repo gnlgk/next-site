@@ -198,11 +198,11 @@ export const portText = [
 export const contactText = [
     {
         link: "https://open.kakao.com/o/gM7YLzwf",
-        title: "KAKAO : webstupids",
+        title: "KAKAO : gnlgk",
     },
     {
-        link: "mailto:webstoryboy@naver.com",
-        title: "mail : webstoryboy@naver.com",
+        link: "mailto:gnlgk@naver.com",
+        title: "mail : gnlgk@naver.com",
     },
 ];
 
@@ -210,17 +210,17 @@ export const footerText = [
     {
         title: "youtube",
         desc: "유튜브에 오시면 더 많은 강의를 볼 수 있습니다.",
-        link: "https://www.youtube.com/@Webstoryboy",
+        link: "https://www.youtube.com/@gnlgk",
     },
     {
         title: "github",
         desc: "깃헙에 오시면 더 많은 소스를 볼 수 있습니다.",
-        link: "https://github.com/webstoryboy",
+        link: "https://github.com/gnlgk",
     },
     {
         title: "blog",
         desc: "블러그에 오시면 더 많은 정보를 볼 수 있습니다.",
-        link: "https://webstoryboy.co.kr",
+        link: "https://gnlgk.co.kr",
     },
     {
         title: "gsap",
@@ -230,17 +230,17 @@ export const footerText = [
     {
         title: "react",
         desc: "리액트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-react",
+        link: "https://github.com/gnlgk/port2023-react",
     },
     {
         title: "vue",
         desc: "뷰로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-vue",
+        link: "https://github.com/gnlgk/port2023-vue",
     },
     {
         title: "next",
         desc: "넥스트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-next",
+        link: "https://github.com/gnlgk/port2023-next",
     },
 ];
 
